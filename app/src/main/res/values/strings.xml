@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DogNutritionApp</string>
+
+    <string name="explorer">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="blog">Blog</string>
+    <string name="cart">Cart</string>
+</resources>
